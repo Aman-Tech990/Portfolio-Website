@@ -55,6 +55,61 @@ h1 {
     }
 }
 
+.home-button {
+    position: fixed;
+    top: 20px;
+    /* Adjust as needed */
+    right: 20px;
+    /* Adjust as needed */
+    background-color: #333;
+    color: #fff;
+    font-size: 20px;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    border-radius: 50%;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    z-index: 999;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.home-button:hover {
+    background-color: #555;
+    transform: scale(1.1);
+}
+
+.home-button i {
+    margin-top: 2px;
+}
+
+@media (max-width: 768px) {
+    .home-button {
+        font-size: 18px;
+        width: 36px;
+        height: 36px;
+        line-height: 36px;
+    }
+
+    .home-button i {
+        margin-top: 1px;
+    }
+}
+
+@media (max-width: 480px) {
+    .home-button {
+        font-size: 16px;
+        width: 32px;
+        height: 32px;
+        line-height: 32px;
+    }
+
+    .home-button i {
+        margin-top: 0;
+    }
+}
+
+
 html,
 body {
     height: 100%;
