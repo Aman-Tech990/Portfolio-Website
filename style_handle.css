@@ -11,7 +11,7 @@ h1 {
     font-size: 36px;
     font-weight: bold;
     text-align: center;
-    background: linear-gradient(to right, #7A288A, #34C759, #F7DC6F, #FF69B4);
+    background: linear-gradient(to right, #ADD8E6, #87CEFA, #B0E0E6, #FFC0CB, #FFB6C1, #E6E6FA, #D3D3D3, #F5F5F5);
     background-size: 400px 400px;
     background-clip: text;
     -webkit-background-clip: text;
@@ -58,9 +58,7 @@ h1 {
 .home-button {
     position: fixed;
     top: 20px;
-    /* Adjust as needed */
     right: 20px;
-    /* Adjust as needed */
     background-color: #333;
     color: #fff;
     font-size: 20px;
@@ -129,7 +127,6 @@ body {
     height: 100%;
     background: url('handle_photo3.jpg') no-repeat center top/cover;
     background-position: center 65%;
-    /* Move the image down slightly */
     opacity: 0.7;
     z-index: -1;
 }
@@ -159,14 +156,12 @@ body {
 
 .header {
     margin-top: 20px;
-    /* Adjust as needed */
 }
 
 .footer {
     display: flex;
     justify-content: center;
     margin-bottom: 20px;
-    /* Adjust as needed */
 }
 
 .welcome-text {
