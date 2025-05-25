@@ -54,7 +54,7 @@ A sleek and responsive landing page built to showcase your personal brand, tech 
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 To run locally:
 
