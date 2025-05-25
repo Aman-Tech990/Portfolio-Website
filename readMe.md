@@ -46,14 +46,6 @@ A sleek and responsive landing page built to showcase your personal brand, tech 
 
 ---
 
-## 📸 Preview
-
-> 📱 Mobile | 💻 Desktop  
-> :-------: | :--------:  
-> ![mobile](./preview-mobile.png) | ![desktop](./preview-desktop.png)
-
----
-
 ## 🔗 Useful Resources
 
 - [Font Awesome Icon Library](https://fontawesome.com/icons)
