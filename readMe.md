@@ -14,18 +14,6 @@ A sleek and responsive landing page built to showcase your personal brand, tech 
 
 ---
 
-## 📁 Project Structure
-📦 Portfolio/
-├── 📄 index.html
-├── 🎨 style.css
-├── 📁 assets/
-│ ├── 📷 profile.png
-│ └── 🖼️ background.jpg
-└── 📄 README.md
-
-
----
-
 ## 🛠️ Technologies Used
 
 - **HTML5**
