@@ -1,8 +1,6 @@
-# 🚀 Developer Portfolio Landing Page
+# Developer Portfolio Landing Page
 
 A sleek and responsive landing page built to showcase your personal brand, tech stack, and professional links — ideal for developers looking to impress with a minimal and clean interface.
-
-![screenshot](./screenshot.png)
 
 ---
 
